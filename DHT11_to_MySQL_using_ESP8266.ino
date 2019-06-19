@@ -20,6 +20,7 @@
 //    value 1 (float)
 //    value 2 (float)
 //    value 3 (float)
+//    reading_time (TIMESTAMP)
 
 //  2.  Enter your database name and chosen table name into the appropriate variables below.
 
