@@ -17,12 +17,13 @@ Please reference Q Metrics Ltd if used in your live projects
 SET UP INSTRUCTIONS
 
 1.  Create a table in your web hosted MySQL Database with the following columns
-    ID (Auto Increment)
-    sensor (var)
-    location (var)
-    value 1 (float)
-    value 2 (float)
-    value 3 (float)
+    ID (Auto Increment)/n
+    sensor (var)/n
+    location (var)/n
+    value 1 (float)/n
+    value 2 (float)/n
+    value 3 (float)/n
+    reading_time (TIMESTAMP)/n
 
   2.  Enter your database name and chosen table name into the appropriate variables within the script
 
